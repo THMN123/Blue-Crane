@@ -1,0 +1,6 @@
+{
+  "name": "Blue Crane Guest House",
+  "description": "Premium boutique guest house landing page featuring elegant architecture, luxurious rooms, clean solar-powered comfort, and a hearty breakfast gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
